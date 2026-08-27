@@ -1,0 +1,98 @@
+{
+  "username": "fakhrimarhas-arch",
+  "widgets": [
+    {
+      "instanceId": "widget_1787795355522",
+      "widgetId": "controlplane-system-loop",
+      "name": "Controlplane-system-loop Widget",
+      "position": {
+        "x": 22,
+        "y": 808
+      },
+      "size": {
+        "width": 768,
+        "height": 328
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1787795485683",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 3
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787796425690",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 12,
+        "y": 420
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1787796508665",
+      "widgetId": "controlplane-metro",
+      "name": "Controlplane-metro Widget",
+      "position": {
+        "x": 29,
+        "y": 1088
+      },
+      "size": {
+        "width": 754,
+        "height": 312
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal",
+  "profileSlug": "default"
+}
