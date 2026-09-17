@@ -1,6 +1,6 @@
 <a href="https://gitascii.com">
   <img
-    src="https://gitascii.com/api/fakhrimarhas-arch?v=1787800383050"
+    src="https://gitascii.com/api/fakhrimarhas-arch?v=1789607429424"
     alt="GitAscii Widget"
     width="100%"
   />
